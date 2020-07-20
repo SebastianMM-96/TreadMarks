@@ -1,6 +1,6 @@
-LIBDIR=/home/sebastian/Tmk/lib.i386_linux2
+LIBDIR=/home/<user>/Tmk/lib.i386_linux2
 
-INCLUDE_DIR=/home/sebastian/Tmk/include
+INCLUDE_DIR=/home/<user>/Tmk/include
 
 LIB=Tmk_udp
 
