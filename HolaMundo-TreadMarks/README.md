@@ -1,4 +1,5 @@
 # Hola mundo ustilizando TreadMarks
 
-El programa desarrollado:  *test_tmk.c* es un ejemplo que solamente despliega un mensaje y termina, basicamente, 
-se usa este programa para verificar que nuestro TreadMarks funciona.
+El programa *hola_tmk.c* es una version del "hola mundo" pero de una manera
+distribuida, ya que el TreadMarks comparte ciertos de los atributos cuando
+se hace el llamado a la función Tmk distribuited().
